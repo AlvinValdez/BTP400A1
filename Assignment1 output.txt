@@ -1,0 +1,501 @@
+### Welcome to Bank of Alvin ###
+9:28 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 5
+
+number: D1234, name: John Doe
+starting balance: $6000, current balance: $6000
+type: GIC
+annual invest rate: 0.015%
+period of investment: 2 years
+new balance at maturity: $6181.34
+
+number: E5678, name: John Doe
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: F9801, name: John Doe
+starting balance: $8000, current balance: $8000
+type: SAVINGS
+annual interest rate: 0.015%
+
+number: A1234, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: GIC
+annual invest rate: 0.025%
+period of investment: 4 years
+new balance at maturity: $16557.19
+
+number: B5678, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: C9012, name: Mary Ryan
+starting balance: $8000, current balance: $8000
+type: SAVINGS
+annual interest rate: 0.0015%
+
+### Welcome to Bank of Alvin ###
+9:28 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 1
+
+Please enter the account type (SAV/CHQ/GIC): 
+SAV
+Please enter account information at one line
+[Full name, account number, balance, interest rate]
+(e.g. John Doe, A1234, 1000.00, 3.65):
+John Doe, A1234, 1000.00, 3.65
+** FAILED: ACCOUNT CANNOT BE OPENED! ***
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 1
+
+Please enter the account type (SAV/CHQ/GIC): 
+SAV
+Please enter account information at one line
+[Full name, account number, balance, interest rate]
+(e.g. John Doe, A1234, 1000.00, 3.65):
+Alvin Valdez, A6969, 1000.00, 3.65
+Account Opened: 
+number: A6969, name: Alvin Valdez
+starting balance: $1000.00, current balance: $1000.00
+type: SAVINGS
+annual interest rate: 3.65%
+
+
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 5
+
+number: D1234, name: John Doe
+starting balance: $6000, current balance: $6000
+type: GIC
+annual invest rate: 0.015%
+period of investment: 2 years
+new balance at maturity: $6181.34
+
+number: E5678, name: John Doe
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: F9801, name: John Doe
+starting balance: $8000, current balance: $8000
+type: SAVINGS
+annual interest rate: 0.015%
+
+number: A1234, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: GIC
+annual invest rate: 0.025%
+period of investment: 4 years
+new balance at maturity: $16557.19
+
+number: B5678, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: C9012, name: Mary Ryan
+starting balance: $8000, current balance: $8000
+type: SAVINGS
+annual interest rate: 0.0015%
+
+number: A6969, name: Alvin Valdez
+starting balance: $1000.00, current balance: $1000.00
+type: SAVINGS
+annual interest rate: 3.65%
+
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 2
+
+Please enter bank account number of account to be removed at one line: 
+A6969
+The account A6969 was deleted.
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 4
+
+
+
+
+a) Search by account balance.
+b) Search by account name.
+c) Search by account number.
+a
+Please enter bank account balance of account to be retrieved at one line: 
+15000
+
+
+number: E5678, name: John Doe
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: A1234, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: GIC
+annual invest rate: 0.025%
+period of investment: 4 years
+new balance at maturity: $16557.19
+
+number: B5678, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 4
+
+
+
+
+a) Search by account balance.
+b) Search by account name.
+c) Search by account number.
+b
+Please enter bank account name of account to be retrieved at one line: 
+Mary Ryan
+
+
+number: A1234, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: GIC
+annual invest rate: 0.025%
+period of investment: 4 years
+new balance at maturity: $16557.19
+
+number: B5678, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: Chequing
+service charge: $0.75
+number of transactions: 0
+total amount of service charge: $0
+
+number: C9012, name: Mary Ryan
+starting balance: $8000, current balance: $8000
+type: SAVINGS
+annual interest rate: 0.0015%
+
+### Welcome to Bank of Alvin ###
+9:29 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 4
+
+
+
+
+a) Search by account balance.
+b) Search by account name.
+c) Search by account number.
+c
+Please enter bank account number of account to be retrieved at one line: 
+D1234
+number: D1234, name: John Doe
+starting balance: $6000, current balance: $6000
+type: GIC
+annual invest rate: 0.015%
+period of investment: 2 years
+new balance at maturity: $6181.34
+
+### Welcome to Bank of Alvin ###
+9:30 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 4
+
+
+
+
+a) Search by account balance.
+b) Search by account name.
+c) Search by account number.
+a
+Please enter bank account balance of account to be retrieved at one line: 
+-1
+*** FAILED: ACCOUNT CANNOT BE RETRIEVED! ***
+
+### Welcome to Bank of Alvin ###
+9:30 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+
+a) Depoist Money.
+b) Withdraw Money.
+a
+Please enter bank account number of account: 
+E5678
+Please enter amount to deposit.
+512.67
+Account Updated
+### Welcome to Bank of Alvin ###
+9:30 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+a) Depoist Money.
+b) Withdraw Money.
+a
+Please enter bank account number of account: 
+C9012
+Please enter amount to deposit.
+512.67
+Account Updated
+### Welcome to Bank of Alvin ###
+9:30 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+a) Depoist Money.
+b) Withdraw Money.
+b
+Please enter bank account number of account: 
+F9801
+Please enter amount to withdraw.
+100.00
+Account Updated
+### Welcome to Bank of Alvin ###
+9:30 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+a) Depoist Money.
+b) Withdraw Money.
+b
+Please enter bank account number of account: 
+B5678
+Please enter amount to withdraw.
+100.00
+Account Updated
+### Welcome to Bank of Alvin ###
+9:31 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+a) Depoist Money.
+b) Withdraw Money.
+a
+Please enter bank account number of account: 
+C9012
+Please enter amount to deposit.
+-123
+*** FAILED: ACCOUNT CANNOT BE UPDATED! ***
+
+### Welcome to Bank of Alvin ###
+9:31 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+
+a) Depoist Money.
+b) Withdraw Money.
+a
+Please enter bank account number of account: 
+A1234
+Please enter amount to deposit.
+2222
+*** FAILED: ACCOUNT CANNOT BE UPDATED! ***
+
+### Welcome to Bank of Alvin ###
+9:31 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 3
+
+
+
+a) Depoist Money.
+b) Withdraw Money.
+b
+Please enter bank account number of account: 
+F9801
+Please enter amount to withdraw.
+56789
+*** FAILED: ACCOUNT CANNOT BE UPDATED! ***
+
+### Welcome to Bank of Alvin ###
+9:31 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 5
+
+number: D1234, name: John Doe
+starting balance: $6000, current balance: $6000
+type: GIC
+annual invest rate: 0.015%
+period of investment: 2 years
+new balance at maturity: $6181.34
+
+number: E5678, name: John Doe
+starting balance: $15000, current balance: $15512.67
+type: Chequing
+service charge: $0.75
+number of transactions: 1
+total amount of service charge: $0
+
+number: F9801, name: John Doe
+starting balance: $8000, current balance: $7900.00
+type: SAVINGS
+annual interest rate: 0.015%
+
+number: A1234, name: Mary Ryan
+starting balance: $15000, current balance: $15000
+type: GIC
+annual invest rate: 0.025%
+period of investment: 4 years
+new balance at maturity: $16557.19
+
+number: B5678, name: Mary Ryan
+starting balance: $15000, current balance: $14900.00
+type: Chequing
+service charge: $0.75
+number of transactions: 1
+total amount of service charge: $0.75
+
+number: C9012, name: Mary Ryan
+starting balance: $8000, current balance: $8512.67
+type: SAVINGS
+annual interest rate: 0.0015%
+
+### Welcome to Bank of Alvin ###
+9:31 PM March 3, 2018
+1. Open an account.
+2. Close an account.
+3. Update an account.
+4. Search.
+5. List all accounts.
+6. Exit.
+
+Please enter your choice: 6
+
+Bye have a great time!
+
+Process finished with exit code 0
